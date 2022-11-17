@@ -1,1 +1,15 @@
-/* write your override styles here */
+p{
+    background-color :aquamarine;
+    background-size :90px;
+    background-font :12; 
+    background-attachment :60px;
+    background-attachment :none;
+}
+sub{
+   background-color : burlywood;
+   background-size : 80px;
+   background :fixed;
+   font-size :medium;
+   font-style :italic;
+   font-family :'Courier New', Courier, monospace
+}
